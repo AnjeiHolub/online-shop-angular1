@@ -1,0 +1,44 @@
+.search, .basket {
+  height: 100px;
+}
+
+.search {
+  background-color: #333;
+}
+
+.products {
+  background-color: #fff;
+}
+
+.basket {
+  background-color: #512;
+}
+
+.product {
+  display: inline-block;
+  width: 25%;
+  background-color: #657;
+  margin-left: 5%;
+  margin-bottom: 10px;
+}
+
+.products-list {
+  display: block;
+}
+
+.products-list-inside {
+  padding: 0;
+}
+
+.title-product {
+  text-align: center;
+}
+
+.description-product {
+  padding: 10px;
+}
+
+.img-product {
+  display: block;
+  margin: 0 auto;
+}
